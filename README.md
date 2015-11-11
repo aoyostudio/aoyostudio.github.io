@@ -1,4 +1,4 @@
-# [**www.aoyostudio.com**](http://www.aoyostudio.com)
+# **aoyostudio.github.io**
 # Introduction
 This is the source repository for frontend of [**AOYO STUDIO**](http://www.aoyostudio.com).
 
