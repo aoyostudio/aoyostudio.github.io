@@ -9,7 +9,8 @@ This is the source repository for frontend of [**AOYO STUDIO**](http://www.aoyos
 * change directory: `$ cd aoyostudio.github.io/gulp`
 * install gulp globally _(needed one time only, if not done before)_: `$ npm install --global gulp`
 * install local npm dependencies: `$ npm install`
-* execute **`gulp`** to run the server
+  _Refer to [fixing npm permissions](https://docs.npmjs.com/getting-started/fixing-npm-permissions), if you are seeing EACCES or permissions errors._
+* start gulp: `$ gulp`
 
 ## Development
 * change directory to source : `$ cd aoyostudio.github.io/src`
@@ -42,6 +43,7 @@ Following is the full list of dependencies:
 [**AOYO STUDIO**](https://www.aoyostudio.com) provides tools and applications for self employed inviduals to save time and simplify life with smart applications that are custom made for your life and business.
 
 ## References
+* [Fixing npm permissions](https://docs.npmjs.com/getting-started/fixing-npm-permissions)
 * [gulp](https://github.com/gulpjs/gulp)
 * [bower bootstrap-sass](https://github.com/twbs/bootstrap-sass#c-bower)
 * [Working with Sass, Bootstrap and Gulp](http://david-barreto.com/working-with-sass-bootstrap-and-gulp/)
