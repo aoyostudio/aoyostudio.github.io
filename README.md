@@ -8,8 +8,8 @@ This is the source repository for frontend of [**AOYO STUDIO**](http://www.aoyos
 * clone repo: `$ git clone https://github.com/aoyostudio/aoyostudio.github.io.git`
 * change directory: `$ cd aoyostudio.github.io/gulp`
 * install gulp globally _(needed one time only, if not done before)_: `$ npm install --global gulp`
-* install local npm dependencies: `$ npm install`
-  _Refer to [fixing npm permissions](https://docs.npmjs.com/getting-started/fixing-npm-permissions), if you are seeing EACCES or permissions errors._
+* install local npm dependencies: `$ npm install`  
+_Refer to [fixing npm permissions](https://docs.npmjs.com/getting-started/fixing-npm-permissions), if you are seeing EACCES or permissions errors._
 * start gulp: `$ gulp`
 
 ## Development
