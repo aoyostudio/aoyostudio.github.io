@@ -1,6 +1,6 @@
 # **aoyostudio.github.io**
 # Introduction
-This is the source repository for frontend of [**AOYO STUDIO**](http://www.aoyostudio.com).
+This is the source repository for frontend of [**AOYO STUDIO**](https://aoyostudio.github.io).
 
 # Usage
 ### Install
